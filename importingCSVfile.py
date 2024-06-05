@@ -1,14 +1,3 @@
-#data project practice with PANDAS Module
-# import statistics
-# print(statistics.stdev([1,7,5,8]))
-#data variable/ an array
-# cumulativeRev = ()
-# productCat = ()
-
-
-# import statistics
-#data variable
-
 import pandas as pd
 def MeanMedianStDev(list):
     df = pd.DataFrame(list)
